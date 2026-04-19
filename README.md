@@ -9,9 +9,9 @@
 | Dataset ID | `981820` |
 | Location | Boston-Cambridge-Newton, MA-NH |
 | Category | Restaurants |
-| Full dataset size | 11,028 records |
-| Free sample size | 1,000 records (9.07%) |
-| Last export | 2026-04-09T07:59:01.400106+00:00 |
+| Full dataset size | 10,903 records |
+| Free sample size | 1,000 records (9.17%) |
+| Last export | 2026-04-16T06:39:19.685665+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-boston-area-metro-ma-nh-us-sample-981820/releases/download/sample-latest/beamstation_981820_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
