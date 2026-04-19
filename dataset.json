@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Metro-wide restaurant dataset for the Greater Boston area including Cambridge and Newton. Captures New England's premier dining market, filtered by the Restaurants category group. Features verified business profiles, review sentiment, competitive rankings, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Greater Boston Area (Metro), MA-NH, US",
-  "export_job_id": "b90b71bb-f050-4f8d-9327-5f3f201c8a47",
+  "export_job_id": "f9d84d1e-bd0e-409a-ac60-a6894297e258",
   "github_org": "Beamstation-Datasets",
   "id_short": 981820,
   "location_name": "Boston-Cambridge-Newton, MA-NH",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-greater-boston-area-metro-ma-nh-us-sample-981820",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/981820/beamstation_981820_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
-  "sample_pct": 9.07,
+  "sample_pct": 9.17,
   "sample_records": 1000,
   "sample_sha256": "b287cd8c5f4baffa0821b65e4e8d956b33c5c5ef16127c008c3aabbbc5b0192d",
   "sample_size_bytes": 3473787,
-  "total_records": 11028,
-  "updated_at": "2026-04-09T07:59:01.400106+00:00"
+  "total_records": 10903,
+  "updated_at": "2026-04-16T06:39:19.685665+00:00"
 }
