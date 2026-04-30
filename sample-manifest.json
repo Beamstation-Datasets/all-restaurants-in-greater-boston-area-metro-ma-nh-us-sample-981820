@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3d426371-2c19-4239-9ba8-9a69f946bb8b",
+  "export_job_id": "2561e329-05d5-47e2-b3a5-e23a0670fe3e",
   "id_short": 981820,
-  "published_at": "2026-04-23T18:30:52Z",
+  "published_at": "2026-04-30T07:43:23Z",
   "repo_name": "all-restaurants-in-greater-boston-area-metro-ma-nh-us-sample-981820",
   "sample_asset_name": "beamstation_981820_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/981820/beamstation_981820_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
-  "sample_records": 972,
-  "sample_sha256": "c1711b2ad0e106dd7e2b08f3650930f8c91cbd47893fe91ccc53ebb1a977c551",
-  "sample_size_bytes": 3362290,
-  "total_records": 9725
+  "sample_records": 1000,
+  "sample_sha256": "cadc6e930e7f65b12e0695b6bd0cdbe9a965f8ce7e6e403c567911995104b648",
+  "sample_size_bytes": 3225963,
+  "total_records": 10845
 }
