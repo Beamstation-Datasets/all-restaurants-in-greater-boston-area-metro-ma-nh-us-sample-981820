@@ -1,6 +1,6 @@
 # All Restaurants in Greater Boston Area (Metro), MA-NH, US
 
-> Free BeamStation sample export with 972 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `981820` |
 | Location | Boston-Cambridge-Newton, MA-NH |
 | Category | Restaurants |
-| Full dataset size | 9,725 records |
-| Free sample size | 972 records (9.99%) |
-| Last export | 2026-04-23T06:55:33.708372+00:00 |
+| Full dataset size | 10,845 records |
+| Free sample size | 1,000 records (9.22%) |
+| Last export | 2026-04-30T06:56:28.095502+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-boston-area-metro-ma-nh-us-sample-981820/releases/download/sample-latest/beamstation_981820_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
